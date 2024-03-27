@@ -46,4 +46,4 @@ Users should be able to:
 ## Author
 
 - GitHub - [Wojciech Podleśny](https://github.com/Wojciech-Podlesny)
-- Frontend Mentor - [Wojciech Podleśny](https://www.frontendmentor.io/profile/Wojciech-Podlesny)
+- Frontend Mentor - [@Wojciech-Podleśny](https://www.frontendmentor.io/profile/Wojciech-Podlesny)
