@@ -40,7 +40,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - BEM architecture
-- SASS
+- SCSS
 - Mobile-first workflow
 
 ## Author
